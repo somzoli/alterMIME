@@ -1,3 +1,3 @@
 # alterMIME
 MIME/email modification tool;
-Fixed --pretext mode insert when multipart boundaries found
+Fixed --pretext-html mode insert when multipart boundaries found
